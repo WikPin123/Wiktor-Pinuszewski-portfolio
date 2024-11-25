@@ -17,6 +17,9 @@ Tools:
     Documentation Tools: Confluence (for requirement tracking and report sharing)
 
 Outcome: Ensured traceability of requirements, streamlined test case execution, and provided clear visibility on project testing progress and bug status.
+
+
+
 Project: Handyman / Mova, IMDb, Evernote (Mobile Testing)
 
 Description: Mobile testing project focusing on popular applications, including IMDb and Evernote, ensuring functionality across various mobile devices.
@@ -34,6 +37,9 @@ Tools:
     Bug Tracking: Jira
 
 Outcome: Verified functionality and usability across mobile platforms, contributing to improved mobile app performance and reliability.
+
+
+
 Project: Conduit
 
 Description: Conduit is a comprehensive application allowing users to post, read, and comment on articles across a variety of topics.
@@ -55,6 +61,9 @@ Tools:
     Bug Tracking: Jira
 
 Outcome: Ensured Conduit's reliability and functionality through rigorous API and local environment testing, enhancing user experience.
+
+
+
 Project: JPetStore Demo
 
 Description: JPetStore Demo is a sample e-commerce application for testing purposes, providing a platform to validate basic functionality and user interactions.
