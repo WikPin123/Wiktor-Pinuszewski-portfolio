@@ -20,6 +20,9 @@ Outcome: Ensured traceability of requirements, streamlined test case execution, 
 
 
 
+
+
+
 Project: Handyman / Mova, IMDb, Evernote (Mobile Testing)
 
 Description: Mobile testing project focusing on popular applications, including IMDb and Evernote, ensuring functionality across various mobile devices.
@@ -37,6 +40,9 @@ Tools:
     Bug Tracking: Jira
 
 Outcome: Verified functionality and usability across mobile platforms, contributing to improved mobile app performance and reliability.
+
+
+
 
 
 
@@ -61,6 +67,9 @@ Tools:
     Bug Tracking: Jira
 
 Outcome: Ensured Conduit's reliability and functionality through rigorous API and local environment testing, enhancing user experience.
+
+
+
 
 
 
